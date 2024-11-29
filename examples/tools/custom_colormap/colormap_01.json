@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "color": "white",
+            "min": 0,
+            "max": 100
+        }
+    ],
+    "mincolormap": 0,
+    "maxcolormap": 100
+}

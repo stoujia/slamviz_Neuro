@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "color": "lightgreen",
+            "min": -10,
+            "max": 10
+        },
+        {
+            "color": "red",
+            "min": 10,
+            "max": 15
+        },
+        {
+            "color": "orange",
+            "min": 15,
+            "max": 60
+        },
+        {
+            "color": "lightgreen",
+            "min": 60,
+            "max": 100
+        }
+    ],
+    "mincolormap": -10,
+    "maxcolormap": 100
+}

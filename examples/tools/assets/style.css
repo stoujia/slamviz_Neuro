@@ -1,0 +1,43 @@
+/* Navigation principale */
+.navbar {
+    background-color: #2A3540; /* Bleu-gris profond */
+    padding: 15px 30px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Liens de navigation */
+.nav-link {
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: #F9F9F9; /* Blanc clair pour une meilleure visibilité */
+    font-size: 18px; /* Taille augmentée pour le confort visuel */
+    font-weight: 500; /* Texte semi-gras */
+    text-transform: uppercase; /* Texte en majuscules pour plus de clarté */
+    letter-spacing: 0.5px; /* Espacement pour un style moderne */
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: #4A90E2; /* Bleu principal pour le survol */
+    color: #FFFFFF; /* Contraste clair pour le hover */
+    text-decoration: none; /* Éviter les soulignements */
+}
+
+/* Titre principal de la navbar */
+.navbar-brand {
+    color: #FFFFFF; /* Blanc pur pour le logo ou titre principal */
+    font-size: 22px; /* Taille augmentée pour mettre en valeur le titre */
+    font-weight: bold; /* Poids plus important pour le rendre distinctif */
+    text-transform: uppercase; /* Style en majuscules */
+    letter-spacing: 1px; /* Espacement accentué */
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Ombre pour meilleure lisibilité */
+}
+
+.navbar-brand:hover {
+    color: #50E3C2; /* Vert menthe doux pour un effet subtil au survol */
+}
+
+/* Ombre sous la barre de navigation pour une meilleure séparation visuelle */
+.navbar-shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

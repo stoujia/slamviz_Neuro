@@ -1,0 +1,174 @@
+{
+    "colormap_01": {
+        "data": [
+            {
+                "color": "lightblue",
+                "min": -1.58,
+                "max": -0.5
+            },
+            {
+                "color": "red",
+                "min": -0.5,
+                "max": 0.5
+            },
+            {
+                "color": "lightblue",
+                "min": 0.5,
+                "max": 3.15
+            }
+        ],
+        "mincolormap": -1.58,
+        "maxcolormap": 3.15
+    },
+    "colormap_02": {
+        "data": [
+            {
+                "color": "lightgreen",
+                "min": -10,
+                "max": 0
+            },
+            {
+                "color": "lightgreen",
+                "min": 0,
+                "max": 0.4
+            },
+            {
+                "color": "blue",
+                "min": 0.4,
+                "max": 0.5
+            },
+            {
+                "color": "lightgreen",
+                "min": 0.5,
+                "max": 0.6
+            },
+            {
+                "color": "blue",
+                "min": 0.6,
+                "max": 0.7
+            },
+            {
+                "color": "lightgreen",
+                "min": 0.7,
+                "max": 0.9
+            },
+            {
+                "color": "blue",
+                "min": 0.9,
+                "max": 1
+            },
+            {
+                "color": "lightgreen",
+                "min": 1,
+                "max": 10
+            }
+        ],
+        "mincolormap": -10,
+        "maxcolormap": 10
+    },
+    "colormap_03": {
+        "data": [
+            {
+                "color": "lightgreen",
+                "min": 0,
+                "max": 100
+            }
+        ],
+        "mincolormap": 0,
+        "maxcolormap": 100
+    },
+    "colormap_04": {
+        "data": [
+            {
+                "color": "white",
+                "min": 0,
+                "max": 40
+            },
+            {
+                "color": "blue",
+                "min": 40,
+                "max": 60
+            },
+            {
+                "color": "white",
+                "min": 60,
+                "max": 90
+            },
+            {
+                "color": "red",
+                "min": 90,
+                "max": 110
+            },
+            {
+                "color": "white",
+                "min": 110,
+                "max": 120
+            },
+            {
+                "color": "green",
+                "min": 120,
+                "max": 500
+            }
+        ],
+        "mincolormap": 0,
+        "maxcolormap": 500
+    },
+    "colormap_05": {
+        "data": [
+            {
+                "color": "white",
+                "min": 50,
+                "max": 100
+            }
+        ],
+        "mincolormap": 0,
+        "maxcolormap": 100
+    },
+    "colormap_06": {
+        "data": [
+            {
+                "color": "white",
+                "min": 0,
+                "max": 40
+            },
+            {
+                "color": "orange",
+                "min": 40,
+                "max": 60
+            },
+            {
+                "color": "blue",
+                "min": 60,
+                "max": 100
+            }
+        ],
+        "mincolormap": 0,
+        "maxcolormap": 100
+    },
+    "colormap_07": {
+        "data": [
+            {
+                "color": "lightgreen",
+                "min": 10,
+                "max": 50
+            },
+            {
+                "color": "blue",
+                "min": 50,
+                "max": 85
+            },
+            {
+                "color": "green",
+                "min": 85,
+                "max": 89
+            },
+            {
+                "color": "lightgreen",
+                "min": 89,
+                "max": 100
+            }
+        ],
+        "mincolormap": 10,
+        "maxcolormap": 100
+    }
+}

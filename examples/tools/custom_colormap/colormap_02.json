@@ -1,0 +1,36 @@
+{
+        "data": [
+            {
+                "color": "white",
+                "min": 0,
+                "max": 40
+            },
+            {
+                "color": "blue",
+                "min": 40,
+                "max": 60
+            },
+            {
+                "color": "white",
+                "min": 60,
+                "max": 90
+            },
+            {
+                "color": "red",
+                "min": 90,
+                "max": 110
+            },
+            {
+                "color": "white",
+                "min": 110,
+                "max": 120
+            },
+            {
+                "color": "green",
+                "min": 120,
+                "max": 500
+            }
+        ],
+        "mincolormap": 0,
+        "maxcolormap": 500
+    }
